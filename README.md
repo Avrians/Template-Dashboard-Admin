@@ -7,6 +7,6 @@ https://www.indrasatya.com/p/admin-template.html </br></br>
 Source Code : https://startbootstrap.com/theme/sb-admin-2 </br>
 Preview : https://startbootstrap.com/previews/sb-admin-2 </br> </br>
 
-2. Admin LTE </br>
+<h2>2. Admin LTE </h2>
 Sorce Code : </br>
 Preview : </br>
