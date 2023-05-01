@@ -1,4 +1,4 @@
-<h1>Admin Template and UI Kit</h1>
+<h1>Template Dashboard Admin and UI Kit</h1>
 
 <p><strong>Free</strong> and <strong>open-source</strong> Admin Dashboard Templates built on Bootstrap or TailwindCSS.</p>
 
